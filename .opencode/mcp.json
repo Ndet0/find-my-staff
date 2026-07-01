@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "name": "supabase",
+      "type": "supabase",
+      "url": "https://icqxqyjolzdecbejeaic.supabase.co",
+      "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImljcXhxeWpvbHpkZWNiZWplYWljIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODA2NDM5MTgsImV4cCI6MjA5NjIxOTkxOH0.zxB3_Ux2nIjSa5S9koPosCXtT75HMgXF6AlwFViXBbk",
+      "projectId": "icqxqyjolzdecbejeaic"
+    }
+  ]
+}

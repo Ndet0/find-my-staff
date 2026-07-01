@@ -1,0 +1,3 @@
+{
+  "extends": "@findmystaff/config/tsconfig.base.json"
+}
