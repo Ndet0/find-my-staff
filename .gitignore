@@ -12,6 +12,9 @@ build
 .env
 .env*.local
 
+# OpenCode local MCP config (uses env var references; keep out of git)
+.opencode/mcp.json
+
 # IDEs and editors
 .vscode/*
 !.vscode/settings.json
